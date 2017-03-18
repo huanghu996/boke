@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://huanghu996.github.io/mzlogin.github.io/ 
+url: http://www.hughyun.top
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: 黄鹄笔记
+subtitle: "黄鹄笔记记录生活"
+description: "黄鹄笔记记录生活点滴"
+keywords: 黄鹄, Huang Hu, note, huanghunote
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -16,11 +16,11 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
-organization: Sogou, Inc.
-organization_url: https://www.sogou.com
-location: Beijing, China
-email: chumpma@gmail.com
+author: Huang Hu
+organization: 
+organization_url:
+location: Changsha, China
+email: 
 
 # ---------------- #
 #    Navigation    #
@@ -82,12 +82,12 @@ repository: mzlogin/mzlogin.github.io
 # ---------------- #
 #      Socials     #
 # ---------------- #
-github_username: mzlogin
-douban_username: freedim
-facebook_username: mzlogin
-weibo_username: mzlogin
-zhihu_username: mzlogin
-twitter_username: mzlogin
+github_username: huanghu996
+douban_username: huanghu996
+facebook_username: huanghu996
+weibo_username: huanghu996
+zhihu_username: huanghu996
+twitter_username: huanghu996
 
 # ---------------- #
 #      Comments    #
@@ -96,8 +96,8 @@ twitter_username: mzlogin
 comments_provider: duoshuo
 # !!!重要!!! 请修改下面两个用户名为你自己申请的
 # !!!Important!!! Please modify usernames below to yours
-duoshuo_username: mazhuang
-disqus_username: mzlogin
+duoshuo_username: huanghu996
+disqus_username: huanghu996
 # 在使用一个时可点击显示另一个
 lazy_load_another : true
 
