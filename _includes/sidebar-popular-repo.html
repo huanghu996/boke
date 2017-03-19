@@ -1,4 +1,4 @@
-<!--
+
 <h3>Categories</h3>
 <section class="container posts-content">
 {% assign sorted_categories = site.categories | sort %}
@@ -14,9 +14,9 @@
 </ol>
 {% endfor %}
 </section>
--->
-<!-- /section.content -->
 
+<!-- /section.content -->
+<!--
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
 <a href="{{ post.url }}" target="_blank" class="card text-center">
@@ -36,4 +36,5 @@
     </div>
 </a>
 {% endfor %}
-{% endfor %}
+{% endif %}
+-->
